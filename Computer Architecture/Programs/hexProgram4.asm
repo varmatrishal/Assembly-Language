@@ -3,7 +3,8 @@
 # Modification History: This code was modified by Trishal Varma on November 2nd 2019.
 #Procedures: 
 	#data:   File name and its type. 
-	#text:   Open the file, read the file, then converst and display its contents 
+	#text:   Open the file, read the file, then converst and display its contents
+	#Mod: This code was modified again on Novermber 2nd of 2021
 	
 	
 #Author: Trishal Varma - txv130330@utdallas.edu 
