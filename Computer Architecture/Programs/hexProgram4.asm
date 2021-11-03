@@ -1,16 +1,17 @@
 # File Name: hexProgram4.asm
 # Author: Trishal Varma
-# Modification History: This code was modified by Trishal Varma on November 2nd 2019.
+
+#Modification History: 
+	#November 2rd 2019.: Code is writtne.  
+	#November 3rd 2019.: Code was revised, comments were added. 
+	#November 2nd 2021.: Updated the code for github account. 
+	
 #Procedures: 
 	#data:   File name and its type. 
 	#text:   Open the file, read the file, then converst and display its contents
 	#Mod: This code was modified again on Novermber 2nd of 2021
-	
-	
-#Author: Trishal Varma - txv130330@utdallas.edu 
-#Modification History: 
-	#November 2rd 2019.: Code is writtne.  
-	#November 3rd 2019.: Code was revised, comments were added. 
+
+
 #Description:  
 #Arguments: none.
 
@@ -143,10 +144,6 @@ li    $v0, 10		#End of life
 syscall 		#execution call end.
 
 
-#Author: Trishal Varma - txv130330@utdallas.edu
-#Modification History:
-	#This code was written on November 3rd 2019. No changes made to the code other than revision.
-#Description: code to print the inputted number. 
 #Arguments: none. 
 			# Program finishes running. 
 
