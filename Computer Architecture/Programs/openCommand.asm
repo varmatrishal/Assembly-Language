@@ -1,15 +1,19 @@
 # File Name: openCommand.asm 
 # Author: Trishal Varma
-# Modification History: This code was modified by Trishal Varma on October 13th 2019.
+
+
+#Modification History: 
+	#October 10th 2019: Code is writtne.  
+	#October 13th 2019: Code was revised, and minor changes were made. 
+	#November 2nd 2021: Code updated for github
+	
 #Procedures: 
 	#data:   File name and its type. 
 	#text:   Open the file, read the file, and display its contents 
 	
 	
 #Author: Trishal Varma - txv130330@utdallas.edu 
-#Modification History: 
-	#October 10th 2019: Code is writtne.  
-	#October 13th 2019: Code was revised, and minor changes were made. 
+
 #Description:  
 #Arguments: none.
 
