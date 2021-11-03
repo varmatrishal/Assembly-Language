@@ -1,6 +1,11 @@
 # File Name: recursive.pgm2.asm
 # Author: Trishal Varma
-# Modification History: This code was modified by Trishal Varma on eptember 26th 2019.
+
+#Modification History: 
+	#September 25th 2019: Code is writtne.  
+	#September 26th 2019: Code was revised, and minor changes were made. 
+	#November 2nd 2021: Code updated for github
+	
 #Procedures: 
 	#data:   Input prompt allowing user to enter an integer.  
 	#text:   System call on printing the user's input of integer. 
@@ -8,9 +13,7 @@
 
 
 #Author: Trishal Varma - txv130330@utdallas.edu 
-#Modification History: 
-	#September 25th 2019: Code is writtne.  
-	#September 26th 2019: Code was revised, and minor changes were made. 
+
 #Description: Entering the input number, then displaying the inputted number.  
 #Arguments: none.
 
@@ -95,9 +98,3 @@ lw $ra,($sp)   # stores to the top of the staick.
 addu $sp,$sp,4 # points to the stop of the stack. 
 jr $ra
 
-#Author: Trishal Varma - txv130330@utdallas.edu
-#Modification History:
-	#This code was written on September 25th 2019. No changes made to the code other than revision.
-#Description: code to print the inputted number. 
-#Arguments: none. 
-			# Program finishes running. 
